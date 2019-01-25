@@ -1,0 +1,13 @@
+<html>
+<p></p>
+<p><img src="http://employee.bnsf.com/Style%20Library/EmployeePortal/app/images/bnsf-logo@2x.png" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
+<!-- Put title here -->
+<p></p>
+<p style="text-align: center;"><strong><span style="color: tomato; font-family: Arial, Helvetica, sans-serif; font-size: x-large;" >Site Request Denied</span></strong></p>
+<p style="text-align: center;"><span style="color: tomato; font-family: Arial, Helvetica, sans-serif; font-size: x-large;"><!-- <div class="pageTitle"><center>Page Title - Non-Secured</center></div> --> </span></p>
+<!-- Body Row --><!-- Place Page Body HTML here -->
+<p style="text-align: center;"><span>Access to this site has been blocked because it violates</span><strong><span>&nbsp;</span>BNSF's Data Storage Policy</strong><span>.</span></p>
+<p style="text-align: center;"><span>For more information, refer to the&nbsp;</span><a href="http://depot2.bnsf.com/ca/Compliance/CorporateAll/Polices%20Posted/Information%20Security/Rule%20-%20Information%20Security.pdf"><strong>Corporate Rule</strong></a><span>.</span></p>
+<p style="text-align: center;"><span>Relevant information can also be found in the&nbsp;</span><a href="http://employee.bnsf.com/company/bnsf-today/default/Pages/OneDrive.aspx"><strong>Corporate Communication Archives</strong></a><span>.</span><br />
+<p style="text-align: center;"><span>The URL blocked was <strong>$(url)</strong>&nbsp;</span></p>
+</html>
